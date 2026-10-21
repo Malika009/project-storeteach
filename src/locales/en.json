@@ -1,0 +1,148 @@
+{
+  "siteTitle": "Storetech — Electronics made easy",
+  "nav": {
+    "aria": "Main navigation",
+    "home": "Home",
+    "services": "Services",
+    "contact": "Contact",
+    "language": "Choose language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "cta": "Get a consultation"
+  },
+  "footer": {
+    "description": "Your trusted partner in everyday tech.",
+    "explore": "Explore",
+    "contact": "Get in touch",
+    "badge": "Official partner\nSince 2025",
+    "rights": "All rights reserved.",
+    "made": "Made with care for you in Bishkek ↗"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Technology, made closer",
+      "title": "Choose technology",
+      "titleAccent": "with confidence",
+      "description": "From smartphones to smart homes. We help you choose the right technology and get the most out of it.",
+      "primary": "Explore services",
+      "secondary": "Talk to our team",
+      "rating": "Trusted by our customers",
+      "floatTopTitle": "Premium quality",
+      "floatTopSub": "Official warranty included",
+      "floatBottomTitle": "The right choice",
+      "floatBottomSub": "We stand behind it",
+      "visualLabel": "Fig. 01 — Your next upgrade",
+      "scroll": "Scroll to explore"
+    },
+    "trust": { "label": "Official partner" },
+    "about": {
+      "eyebrow": "Who we are",
+      "title": "Technology",
+      "titleAccent": "for people.",
+      "link": "What we do",
+      "lead": "We do more than sell devices. We help you find the right fit.",
+      "description": "Storetech is your electronics partner, making technology accessible and easy to use in everyday life. Every customer gets thoughtful guidance, quality service, and reliable support.",
+      "statYears": "years of experience",
+      "statCustomers": "happy customers",
+      "statCare": "here for you"
+    },
+    "preview": {
+      "eyebrow": "What we do",
+      "title": "The full service",
+      "titleAccent": "your tech deserves.",
+      "link": "All services"
+    },
+    "cta": {
+      "eyebrow": "Ready to get started?",
+      "title": "Find a",
+      "titleAccent": "better way to tech.",
+      "description": "Tell us what you need. We’ll find the right solution together.",
+      "button": "Get expert advice"
+    }
+  },
+  "serviceCategories": {
+    "consulting": "Personal advice",
+    "setup": "Setup and installation",
+    "delivery": "Easy delivery",
+    "business": "Business solutions"
+  },
+  "services": {
+    "eyebrow": "Our services",
+    "title": "Complete support\nfor your technology.",
+    "description": "From choosing the right device to feeling confident using it every day.",
+    "available": "READY FOR YOU",
+    "count": "SERVICES",
+    "loading": "Loading services...",
+    "error": "Could not load services. Please try again.",
+    "retry": "Try again",
+    "ask": "Ask about this service",
+    "note": "Consultation is included with every service",
+    "noteLink": "Have a question?",
+    "items": {
+      "consultation": {
+        "title": "Personal advice",
+        "description": "We recommend devices that fit your needs, budget, and everyday routines.",
+        "detail": "No pressure, no rush"
+      },
+      "setup": {
+        "title": "Setup and installation",
+        "description": "We connect your new device, transfer your data, and get everything ready to go.",
+        "detail": "Ready to use"
+      },
+      "delivery": {
+        "title": "Easy delivery",
+        "description": "Your order is carefully packed and delivered to your door at a time that works for you.",
+        "detail": "Free in the city"
+      },
+      "business": {
+        "title": "Business solutions",
+        "description": "We find office equipment, handle bulk orders, and provide business support.",
+        "detail": "For your team"
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let’s talk.\nWe’re listening.",
+    "description": "Have a question or need some advice? Send us a message and we’ll be in touch.",
+    "success": "Thank you! Your message has been received. We’ll be in touch soon.",
+    "aside": {
+      "eyebrow": "GET IN TOUCH",
+      "title": "The right choice",
+      "titleAccent": "starts with a chat.",
+      "description": "Our team is happy to help you find a solution that works for you.",
+      "email": "Email us",
+      "phone": "Call us",
+      "hours": "Mon – Sat, 9 am – 8 pm"
+    },
+    "form": {
+      "eyebrow": "DROP US A LINE",
+      "title": "How can we help?",
+      "description": "Fill out the form and we’ll reply within one business day.",
+      "name": "Your name",
+      "email": "Email address",
+      "phone": "Phone number",
+      "message": "Your message",
+      "namePlaceholder": "Enter your name",
+      "emailPlaceholder": "you@example.com",
+      "phonePlaceholder": "+996 555 123 456",
+      "messagePlaceholder": "Tell us a little about what you need...",
+      "required": "* Required fields",
+      "submit": "Send message"
+    },
+    "errors": {
+      "name": "Please enter your name.",
+      "emailRequired": "Please enter your email address.",
+      "emailInvalid": "Please enter a valid email address.",
+      "phone": "Please enter your phone number.",
+      "phoneInvalid": "Please enter a valid phone number.",
+      "message": "Please enter a message.",
+      "messageShort": "Your message must be at least 10 characters long."
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "This address may have changed or the page may no longer exist.",
+    "button": "Back to home"
+  }
+}
